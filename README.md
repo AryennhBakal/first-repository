@@ -2,7 +2,7 @@
 <b>Author</b>: Aryennh Bakal
 <table border="black">
   <caption>
-      Features Of The Repository
+      <b>Features Of The Repository</b>
   </caption>
   <thead>
     <tr>

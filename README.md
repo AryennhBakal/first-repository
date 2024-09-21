@@ -4,6 +4,7 @@
   <caption>
       <b>Features Of The Repository</b>
   </caption>
+  <br>
   <thead>
     <tr>
       <th>Features</th>

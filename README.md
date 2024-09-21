@@ -13,7 +13,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Feature Trials</td>
+      <td>Feature Trial</td>
       <td>I try everything Git has to offer in this repo</td>
     </tr>
   </tbody>

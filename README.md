@@ -1,6 +1,5 @@
 # first-repository
-<hr>
-<b></b>Author</b>: Aryennh Bakal
+<b>Author</b>: Aryennh Bakal
 <table border="black">
   <caption>
       Features Of The Repository

@@ -14,7 +14,7 @@
   <tbody>
     <tr>
       <td>Feature Trials</td>
-      <td>I try evrything Git has to offer in this repo</td>
+      <td>I try everything Git has to offer in this repo</td>
     </tr>
   </tbody>
 </table>
